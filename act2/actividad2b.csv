@@ -1,0 +1,1376 @@
+,host_name,host_since,neighbourhood,property_type,room_type,price
+0,Janet,2010-12-01,Neighborhood highlights,Entire rental unit,Entire home/apt,$270.00
+1,Judith L,2009-09-24,Neighborhood highlights,Private room in condo,Private room,$154.00
+2,Marc E,2010-01-27,,Private room in bed and breakfast,Private room,$154.00
+3,Marc E,2010-01-27,,Private room in bed and breakfast,Private room,$183.00
+4,Kevin,2011-03-08,Neighborhood highlights,Entire rental unit,Entire home/apt,$300.00
+5,Marc E,2010-01-27,,Private room in bed and breakfast,Private room,$189.00
+6,Janet,2010-12-01,Neighborhood highlights,Entire condo,Entire home/apt,$261.00
+7,Louisa,2010-02-14,Neighborhood highlights,Entire home,Entire home/apt,
+8,Jimmy,2012-04-24,Neighborhood highlights,Entire rental unit,Entire home/apt,"$1,425.00"
+9,Elaine,2012-08-30,,Private room in rental unit,Private room,$188.00
+10,,,Neighborhood highlights,Entire rental unit,Entire home/apt,$325.00
+11,Greg,2011-09-13,,Entire rental unit,Entire home/apt,$141.00
+12,Reem,2012-09-25,Neighborhood highlights,Entire rental unit,Entire home/apt,$320.00
+13,Deborah,2012-12-27,,Private room in bed and breakfast,Private room,$56.00
+14,Melissa,2013-01-28,Neighborhood highlights,Entire condo,Entire home/apt,$142.00
+15,Eleanor,2012-07-29,,Entire rental unit,Entire home/apt,$123.00
+16,Judith L,2009-09-24,Neighborhood highlights,Entire condo,Entire home/apt,$405.00
+17,Jason,2013-04-21,,Private room in serviced apartment,Private room,$82.00
+18,Jason,2013-04-21,,Private room in rental unit,Private room,$117.00
+19,Erin,2012-06-02,Neighborhood highlights,Entire rental unit,Entire home/apt,$217.00
+20,John,2013-05-10,Neighborhood highlights,Private room in rental unit,Private room,$62.00
+21,Chunbai,2012-04-03,Neighborhood highlights,Entire condo,Entire home/apt,$132.00
+22,Paul,2012-08-26,Neighborhood highlights,Entire rental unit,Entire home/apt,$180.00
+23,Wendy,2013-04-27,,Entire rental unit,Entire home/apt,$175.00
+24,Jenny,2013-07-18,Neighborhood highlights,Private room in bed and breakfast,Private room,
+25,Jenny,2013-07-18,Neighborhood highlights,Private room in bed and breakfast,Private room,
+26,Stuart,2013-08-08,Neighborhood highlights,Private room in condo,Private room,$94.00
+27,Colleen,2013-08-30,Neighborhood highlights,Private room in home,Private room,$250.00
+28,Case,2012-08-28,Neighborhood highlights,Entire rental unit,Entire home/apt,$130.00
+29,Alan,2013-07-27,Neighborhood highlights,Private room in rental unit,Private room,$80.00
+30,Churchill,2013-10-14,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+31,Churchill,2013-10-14,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+32,,,Neighborhood highlights,Entire rental unit,Entire home/apt,$141.00
+33,Lucia,2013-11-14,Neighborhood highlights,Entire guest suite,Entire home/apt,$142.00
+34,Steve,2013-09-14,Neighborhood highlights,Entire home,Entire home/apt,$383.00
+35,Malgorzata A,2013-12-04,Neighborhood highlights,Private room in townhouse,Private room,$119.00
+36,Kristin Anjela,2012-12-29,Neighborhood highlights,Entire condo,Entire home/apt,$121.00
+37,Churchill,2013-10-14,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+38,Doriana,2013-07-11,Neighborhood highlights,Entire condo,Entire home/apt,$155.00
+39,Reem,2012-09-25,Neighborhood highlights,Entire rental unit,Entire home/apt,$431.00
+40,Mona,2014-02-24,Neighborhood highlights,Private room in townhouse,Private room,$97.00
+41,Caroline B,2014-02-26,Neighborhood highlights,Private room in home,Private room,$144.00
+42,Shelley,2013-05-21,,Private room in home,Private room,
+43,Blair,2014-04-23,Neighborhood highlights,Entire rental unit,Entire home/apt,
+44,Churchill,2013-10-14,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+45,Jason,2013-04-21,Neighborhood highlights,Private room in rental unit,Private room,$86.00
+46,Reem,2012-09-25,Neighborhood highlights,Entire rental unit,Entire home/apt,$371.00
+47,Charlton,2012-12-01,Neighborhood highlights,Entire townhouse,Entire home/apt,$276.00
+48,Maria,2013-12-06,,Entire rental unit,Entire home/apt,$215.00
+49,Jimmy,2012-04-24,Neighborhood highlights,Entire rental unit,Entire home/apt,$289.00
+50,We Are Kai And Nina,2013-03-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$376.00
+51,Christopher,2012-10-11,Neighborhood highlights,Entire rental unit,Entire home/apt,$291.00
+52,Johnny,2014-05-14,Neighborhood highlights,Entire townhouse,Entire home/apt,$185.00
+53,Nanette,2013-10-06,,Private room in rental unit,Private room,$130.00
+54,Nanette,2013-10-06,Neighborhood highlights,Private room in rental unit,Private room,$128.00
+55,Bruce,2013-11-29,Neighborhood highlights,Entire rental unit,Entire home/apt,$94.00
+56,Robert,2012-10-31,Neighborhood highlights,Private room in rental unit,Private room,$113.00
+57,Churchill,2013-10-14,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+58,Churchill,2013-10-14,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+59,Juan Carlos,2013-06-09,Neighborhood highlights,Entire home,Entire home/apt,$156.00
+60,Philip,2014-01-13,Neighborhood highlights,Entire condo,Entire home/apt,$508.00
+61,Lisan,2013-06-10,Neighborhood highlights,Entire home,Entire home/apt,$151.00
+62,Gustavo,2014-07-29,Neighborhood highlights,Private room in rental unit,Private room,$103.00
+63,Bryan & Marisa,2011-02-22,Neighborhood highlights,Private room in rental unit,Private room,
+64,Victor,2011-02-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$150.00
+65,Louisa,2010-02-14,Neighborhood highlights,Entire condo,Entire home/apt,$177.00
+66,Catherine,2014-09-28,Neighborhood highlights,Entire condo,Entire home/apt,
+67,Malgorzata A,2013-12-04,,Private room in townhouse,Private room,$119.00
+68,Ling Yi,2014-09-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$391.00
+69,Churchill,2013-10-14,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+70,Churchill,2013-10-14,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+71,Ling Yi,2014-09-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$354.00
+72,Churchill,2013-10-14,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+73,Katherine Donovan,2013-01-20,Neighborhood highlights,Entire rental unit,Entire home/apt,
+74,Peter,2011-06-26,Neighborhood highlights,Entire condo,Entire home/apt,$252.00
+75,Suz,2013-12-20,Neighborhood highlights,Entire rental unit,Entire home/apt,$165.00
+76,Ling Yi,2014-09-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$300.00
+77,Laurie,2014-11-29,Neighborhood highlights,Entire home,Entire home/apt,$180.00
+78,,,Neighborhood highlights,Entire condo,Entire home/apt,$215.00
+79,Anshul,2014-12-25,Neighborhood highlights,Private room in rental unit,Private room,
+80,Nora,2014-12-30,,Entire rental unit,Entire home/apt,
+81,Ling Yi,2014-09-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$303.00
+82,,,Neighborhood highlights,Entire rental unit,Entire home/apt,
+83,Ari,2010-03-02,Neighborhood highlights,Entire rental unit,Entire home/apt,$438.00
+84,Rosalind,2015-01-13,Neighborhood highlights,Private room in home,Private room,$59.00
+85,Michelle,2015-01-25,Neighborhood highlights,Private room in rental unit,Private room,$72.00
+86,Ari,2010-03-02,Neighborhood highlights,Entire rental unit,Entire home/apt,$320.00
+87,Sarah,2014-08-09,Neighborhood highlights,Entire home,Entire home/apt,$456.00
+88,Ling Yi,2014-09-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$314.00
+89,James,2015-03-26,Neighborhood highlights,Entire guest suite,Entire home/apt,$200.00
+90,Thomas,2014-02-25,Neighborhood highlights,Entire rental unit,Entire home/apt,$76.00
+91,Miriam Dale,2011-10-07,Neighborhood highlights,Entire rental unit,Entire home/apt,$315.00
+92,Steve,2013-09-14,Neighborhood highlights,Entire home,Entire home/apt,$269.00
+93,Jurek,2014-09-24,Neighborhood highlights,Entire home,Entire home/apt,$194.00
+94,Jurek,2014-09-24,Neighborhood highlights,Private room in home,Private room,$85.00
+95,Jennifer,2015-05-03,Neighborhood highlights,Entire rental unit,Entire home/apt,$284.00
+96,Kimberly,2015-05-11,Neighborhood highlights,Entire rental unit,Entire home/apt,$481.00
+97,David,2014-12-29,Neighborhood highlights,Entire rental unit,Entire home/apt,$151.00
+98,Andrew,2014-10-06,Neighborhood highlights,Entire rental unit,Entire home/apt,$150.00
+99,Mary,2015-05-20,Neighborhood highlights,Entire home,Entire home/apt,$764.00
+100,John,2013-05-17,,Private room in rental unit,Private room,$72.00
+101,Zazy & Georges,2015-04-06,Neighborhood highlights,Entire guest suite,Entire home/apt,$388.00
+102,Amanda,2014-12-19,Neighborhood highlights,Private room in condo,Private room,$129.00
+103,Connie,2015-06-15,Neighborhood highlights,Private room in home,Private room,$100.00
+104,Connie,2015-06-15,Neighborhood highlights,Private room in home,Private room,$100.00
+105,,,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+106,Jurek,2014-09-24,Neighborhood highlights,Private room in rental unit,Private room,$86.00
+107,Reem,2012-09-25,Neighborhood highlights,Private room in rental unit,Private room,$249.00
+108,Purnima,2015-06-02,Neighborhood highlights,Private room in rental unit,Private room,$104.00
+109,Priscilla Dade,2010-03-08,Neighborhood highlights,Private room in home,Private room,$113.00
+110,Laurie,2013-01-21,Neighborhood highlights,Entire home,Entire home/apt,$920.00
+111,Coni,2015-01-31,,Private room in rental unit,Private room,
+112,Coni,2015-01-31,,Private room in rental unit,Private room,
+113,Case,2012-08-28,Neighborhood highlights,Entire rental unit,Entire home/apt,$150.00
+114,Thomas,2014-02-25,,Private room in home,Private room,$60.00
+115,Dawn,2015-08-04,Neighborhood highlights,Entire guest suite,Entire home/apt,$135.00
+116,Dawn,2015-08-04,Neighborhood highlights,Entire guest suite,Entire home/apt,$122.00
+117,Dawn,2015-08-04,Neighborhood highlights,Entire guest suite,Entire home/apt,
+118,Dawn,2015-08-04,Neighborhood highlights,Entire home,Entire home/apt,$143.00
+119,Dawn,2015-08-04,Neighborhood highlights,Entire guest suite,Entire home/apt,$129.00
+120,Mike,2013-12-26,Neighborhood highlights,Tiny home,Entire home/apt,$151.00
+121,Ling Yi,2014-09-22,Neighborhood highlights,Entire rental unit,Entire home/apt,
+122,,,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+123,Gina,2014-06-17,Neighborhood highlights,Entire condo,Entire home/apt,$105.00
+124,Gema,2015-08-30,Neighborhood highlights,Private room in rental unit,Private room,$119.00
+125,Ling Yi,2014-09-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$324.00
+126,Ruma,2015-09-09,Neighborhood highlights,Private room in home,Private room,$119.00
+127,Intisar,2011-07-29,,Private room in home,Private room,$165.00
+128,Sharon,2014-10-01,Neighborhood highlights,Entire rental unit,Entire home/apt,$399.00
+129,Hilary,2015-05-13,Neighborhood highlights,Private room in rental unit,Private room,
+130,Jonah,2015-09-14,,Private room in rental unit,Private room,$86.00
+131,Maxine,2015-10-26,Neighborhood highlights,Private room in rental unit,Private room,$86.00
+132,Mary Ann,2014-09-08,Neighborhood highlights,Entire rental unit,Entire home/apt,$180.00
+133,Shahzad,2015-08-26,Neighborhood highlights,Entire home,Entire home/apt,$475.00
+134,Joan,2012-04-17,Neighborhood highlights,Private room in bed and breakfast,Private room,$108.00
+135,Amy,2015-12-03,Neighborhood highlights,Private room in home,Private room,$98.00
+136,,,Neighborhood highlights,Private room in home,Private room,
+137,Riverside,2015-12-11,,Private room in rental unit,Private room,
+138,Riverside,2015-12-11,,Private room in rental unit,Private room,
+139,Leila,2013-05-12,Neighborhood highlights,Entire rental unit,Entire home/apt,
+140,,,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+141,,,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+142,,,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+143,Riverside,2015-12-11,Neighborhood highlights,Private room in rental unit,Private room,
+144,Riverside,2015-12-11,,Private room in rental unit,Private room,
+145,Riverside,2015-12-11,Neighborhood highlights,Private room in rental unit,Private room,
+146,Amy,2015-12-16,Neighborhood highlights,Entire condo,Entire home/apt,$384.00
+147,Amy,2015-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$317.00
+148,Amy,2015-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$237.00
+149,Jurek,2014-09-24,Neighborhood highlights,Entire rental unit,Entire home/apt,$161.00
+150,Judy,2016-03-06,Neighborhood highlights,Entire rental unit,Entire home/apt,$247.00
+151,Louisa,2010-02-14,Neighborhood highlights,Entire condo,Entire home/apt,$290.00
+152,Ling Yi,2014-09-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$389.00
+153,Miriam Dale,2011-10-07,Neighborhood highlights,Entire rental unit,Entire home/apt,$400.00
+154,Claudio,2016-04-04,,Entire rental unit,Entire home/apt,$332.00
+155,Ling Yi,2014-09-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$398.00
+156,Catherine,2016-04-08,Neighborhood highlights,Private room in condo,Private room,$65.00
+157,,,Neighborhood highlights,Entire condo,Entire home/apt,$161.00
+158,Steve,2015-09-05,Neighborhood highlights,Entire condo,Entire home/apt,$50.00
+159,Daniel,2013-11-17,,Entire rental unit,Entire home/apt,$175.00
+160,Kay,2016-04-18,Neighborhood highlights,Entire rental unit,Entire home/apt,
+161,Ying,2016-04-25,Neighborhood highlights,Entire home,Entire home/apt,$325.00
+162,Ling Yi,2014-09-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$356.00
+163,Gema,2015-08-30,Neighborhood highlights,Private room in rental unit,Private room,$115.00
+164,Ying,2016-04-25,Neighborhood highlights,Entire rental unit,Entire home/apt,$550.00
+165,Agnes,2015-07-26,Neighborhood highlights,Private room in home,Private room,$98.00
+166,Ying,2016-04-25,,Private room in rental unit,Private room,$89.00
+167,Carolyn,2012-07-29,Neighborhood highlights,Entire rental unit,Entire home/apt,$176.00
+168,Ying,2016-04-25,,Private room in rental unit,Private room,$81.00
+169,Ying,2016-04-25,Neighborhood highlights,Private room in home,Private room,$65.00
+170,Jurek,2014-09-24,Neighborhood highlights,Private room in guest suite,Private room,$78.00
+171,Riverside,2015-12-11,Neighborhood highlights,Private room in rental unit,Private room,
+172,Ian,2016-05-25,Neighborhood highlights,Private room in rental unit,Private room,
+173,Dan,2013-11-11,Neighborhood highlights,Entire home,Entire home/apt,$140.00
+174,Gema,2015-08-30,Neighborhood highlights,Private room in rental unit,Private room,$113.00
+175,Norma,2015-06-24,Neighborhood highlights,Entire guest suite,Entire home/apt,
+176,Jessica,2015-03-02,Neighborhood highlights,Entire rental unit,Entire home/apt,$118.00
+177,Christiana,2016-06-18,Neighborhood highlights,Private room in home,Private room,$151.00
+178,Christiana,2016-06-18,,Private room in home,Private room,$150.00
+179,Yan,2015-09-24,Neighborhood highlights,Entire rental unit,Entire home/apt,
+180,Thomas,2014-02-25,Neighborhood highlights,Entire rental unit,Entire home/apt,$75.00
+181,Nelson And Pauline,2016-07-12,Neighborhood highlights,Entire rental unit,Entire home/apt,$175.00
+182,Gema,2015-08-30,Neighborhood highlights,Private room in rental unit,Private room,$117.00
+183,Riverside,2015-12-11,,Private room in rental unit,Private room,
+184,Bernardo,2011-12-05,,Entire rental unit,Entire home/apt,
+185,Irene,2016-07-27,Neighborhood highlights,Private room in rental unit,Private room,$100.00
+186,,,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+187,Shallu,2015-12-06,,Entire rental unit,Entire home/apt,$192.00
+188,Mehtap Leyla,2012-09-18,Neighborhood highlights,Entire guest suite,Entire home/apt,$125.00
+189,Samuel,2016-08-13,,Shared room in rental unit,Shared room,
+190,Thomas,2014-02-25,,Private room in rental unit,Private room,$60.00
+191,Riverside,2015-12-11,,Private room in rental unit,Private room,
+192,Riverside,2015-12-11,,Private room in rental unit,Private room,
+193,Robert,2016-08-26,Neighborhood highlights,Entire rental unit,Entire home/apt,$167.00
+194,Philip,2013-09-19,Neighborhood highlights,Entire condo,Entire home/apt,$402.00
+195,Zheng,2013-05-28,Neighborhood highlights,Entire villa,Entire home/apt,$290.00
+196,Marie,2015-05-03,Neighborhood highlights,Private room in home,Private room,$155.00
+197,Kemi,2016-09-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$243.00
+198,Serena,2012-08-26,Neighborhood highlights,Private room in townhouse,Private room,$81.00
+199,Debby,2013-01-28,Neighborhood highlights,Entire condo,Entire home/apt,
+200,Riverside,2015-12-11,Neighborhood highlights,Private room in rental unit,Private room,
+201,Bluebird,2016-09-16,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+202,Bluebird,2016-09-16,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+203,Bluebird,2016-09-16,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+204,Bluebird,2016-09-16,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+205,Bluebird,2016-09-16,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+206,Suzanne Helen,2014-01-26,Neighborhood highlights,Entire rental unit,Entire home/apt,$149.00
+207,Steve,2015-09-05,Neighborhood highlights,Entire condo,Entire home/apt,
+208,Steve,2015-09-05,Neighborhood highlights,Entire condo,Entire home/apt,$318.00
+209,Cambridge,2016-11-01,Neighborhood highlights,Entire condo,Entire home/apt,$303.00
+210,Carla & Steve,2016-05-08,Neighborhood highlights,Private room in cottage,Private room,$135.00
+211,Riverside,2015-12-11,,Private room in rental unit,Private room,
+212,Riverside,2015-12-11,,Private room in rental unit,Private room,
+213,Riverside,2015-12-11,,Private room in rental unit,Private room,
+214,Michael,2016-11-09,Neighborhood highlights,Entire condo,Entire home/apt,$135.00
+215,Ann,2015-06-10,Neighborhood highlights,Entire rental unit,Entire home/apt,$362.00
+216,Kjersti,2013-05-28,Neighborhood highlights,Entire rental unit,Entire home/apt,$390.00
+217,Riverside,2015-12-11,,Private room in rental unit,Private room,$113.00
+218,Riverside,2015-12-11,,Private room in rental unit,Private room,
+219,Riverside,2015-12-11,,Private room in rental unit,Private room,
+220,Riverside,2015-12-11,,Private room in rental unit,Private room,
+221,Matthew,2011-11-03,Neighborhood highlights,Private room in guest suite,Private room,$159.00
+222,Marta,2014-04-03,,Entire rental unit,Entire home/apt,$135.00
+223,Nikita,2009-09-01,Neighborhood highlights,Private room in home,Private room,$80.00
+224,Anne,2016-12-13,Neighborhood highlights,Entire home,Entire home/apt,$423.00
+225,Jason,2013-04-21,Neighborhood highlights,Private room in rental unit,Private room,$124.00
+226,Riverside,2015-12-11,,Private room in rental unit,Private room,
+227,Carol,2018-12-08,Neighborhood highlights,Private room in home,Private room,$100.00
+228,Stephanie & Ken,2013-05-11,Neighborhood highlights,Entire rental unit,Entire home/apt,
+229,Nikita,2009-09-01,,Private room in home,Private room,$80.00
+230,Judith L,2009-09-24,Neighborhood highlights,Private room in home,Private room,$105.00
+231,Katrin,2014-03-19,Neighborhood highlights,Entire rental unit,Entire home/apt,$270.00
+232,Federico,2013-04-10,Neighborhood highlights,Entire rental unit,Entire home/apt,$380.00
+233,Huani,2016-08-26,Neighborhood highlights,Entire rental unit,Entire home/apt,$197.00
+234,Ann,2015-06-10,Neighborhood highlights,Entire rental unit,Entire home/apt,$590.00
+235,Gerald A,2016-09-06,,Boat,Entire home/apt,$164.00
+236,David & Jane,2017-05-29,Neighborhood highlights,Entire condo,Entire home/apt,
+237,Parker,2017-01-16,,Entire townhouse,Entire home/apt,$760.00
+238,Louisa,2010-02-14,Neighborhood highlights,Entire condo,Entire home/apt,$376.00
+239,David,2016-01-21,Neighborhood highlights,Entire home,Entire home/apt,$216.00
+240,Rachel,2014-06-16,,Private room in home,Private room,$50.00
+241,Louisa,2010-02-14,Neighborhood highlights,Entire condo,Entire home/apt,$226.00
+242,Louisa,2010-02-14,Neighborhood highlights,Entire condo,Entire home/apt,$225.00
+243,Karen,2017-08-12,Neighborhood highlights,Entire rental unit,Entire home/apt,$234.00
+244,Steve,2015-09-05,,Entire rental unit,Entire home/apt,
+245,Mo,2015-08-04,Neighborhood highlights,Entire rental unit,Entire home/apt,
+246,Marie,2015-05-03,Neighborhood highlights,Private room in home,Private room,$170.00
+247,Louisa,2010-02-14,Neighborhood highlights,Entire condo,Entire home/apt,$266.00
+248,Lynne,2016-09-04,,Private room in home,Private room,$61.00
+249,Jamal,2015-07-23,Neighborhood highlights,Private room in rental unit,Private room,$81.00
+250,Jamal,2015-07-23,Neighborhood highlights,Private room in rental unit,Private room,$82.00
+251,Vanessa,2017-09-19,Neighborhood highlights,Entire rental unit,Entire home/apt,$365.00
+252,Doriana,2013-07-11,Neighborhood highlights,Entire condo,Entire home/apt,$145.00
+253,,,Neighborhood highlights,Entire townhouse,Entire home/apt,$669.00
+254,David,2015-08-18,Neighborhood highlights,Entire rental unit,Entire home/apt,$220.00
+255,Isabelle,2017-03-04,Neighborhood highlights,Entire rental unit,Entire home/apt,$202.00
+256,Vinit,2012-11-28,Neighborhood highlights,Private room in home,Private room,$150.00
+257,Alexandria,2016-10-26,Neighborhood highlights,Entire condo,Entire home/apt,$164.00
+258,Jurek,2014-09-24,Neighborhood highlights,Private room in rental unit,Private room,$73.00
+259,Brian,2017-12-04,Neighborhood highlights,Entire rental unit,Entire home/apt,
+260,Michael,2017-11-22,Neighborhood highlights,Entire home,Entire home/apt,$477.00
+261,Gunduz,2013-09-08,Neighborhood highlights,Entire rental unit,Entire home/apt,$190.00
+262,Huanan,2017-12-14,Neighborhood highlights,Entire rental unit,Entire home/apt,$148.00
+263,Ken,2016-05-07,Neighborhood highlights,Entire rental unit,Entire home/apt,$100.00
+264,Huanan,2017-12-14,Neighborhood highlights,Entire rental unit,Entire home/apt,$144.00
+265,Hong,2017-12-16,,Room in boutique hotel,Private room,$143.00
+266,Churchill,2013-10-14,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+267,Bluebird,2016-09-16,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+268,Huanan,2017-12-14,Neighborhood highlights,Entire rental unit,Entire home/apt,$118.00
+269,Jurek,2014-09-24,Neighborhood highlights,Private room in rental unit,Private room,$77.00
+270,Patrick,2018-01-06,Neighborhood highlights,Entire rental unit,Entire home/apt,$250.00
+271,Cheryl,2016-05-10,Neighborhood highlights,Entire condo,Entire home/apt,
+272,Ivan,2012-11-16,,Entire home,Entire home/apt,$676.00
+273,Lucy,2012-02-18,Neighborhood highlights,Entire rental unit,Entire home/apt,$136.00
+274,Lynne,2016-09-04,Neighborhood highlights,Private room in bed and breakfast,Private room,$59.00
+275,Mark,2018-02-04,,Private room in rental unit,Private room,$91.00
+276,Ling Yi,2014-09-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$396.00
+277,Vanessa,2017-09-19,Neighborhood highlights,Private room in rental unit,Private room,
+278,Vanessa,2017-09-19,Neighborhood highlights,Private room in rental unit,Private room,
+279,Vanessa,2017-09-19,Neighborhood highlights,Private room in rental unit,Private room,
+280,Mark,2018-02-04,,Private room in rental unit,Private room,$92.00
+281,Mark,2018-02-04,,Private room in rental unit,Private room,$107.00
+282,Nancy And Steve,2018-03-03,Neighborhood highlights,Entire rental unit,Entire home/apt,$167.00
+283,Siyu,2018-03-11,Neighborhood highlights,Entire rental unit,Entire home/apt,$282.00
+284,Patrick,2018-01-06,Neighborhood highlights,Entire rental unit,Entire home/apt,$172.00
+285,Mark,2018-02-04,,Private room in rental unit,Private room,$100.00
+286,Antonio,2023-06-12,Neighborhood highlights,Private room in home,Private room,$90.00
+287,Candace,2018-03-29,Neighborhood highlights,Private room in bed and breakfast,Private room,$211.00
+288,,,Neighborhood highlights,Entire rental unit,Entire home/apt,$351.00
+289,Emanuel,2014-10-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$184.00
+290,Taskin,2014-05-05,Neighborhood highlights,Private room in rental unit,Private room,$92.00
+291,Taskin,2014-05-05,Neighborhood highlights,Private room in rental unit,Private room,$88.00
+292,Daniel,2017-11-13,Neighborhood highlights,Entire rental unit,Entire home/apt,$276.00
+293,Janice,2018-04-18,,Entire rental unit,Entire home/apt,$194.00
+294,Carolyn,2012-07-29,Neighborhood highlights,Private room in home,Private room,$120.00
+295,Jeangabriel,2016-08-04,Neighborhood highlights,Entire rental unit,Entire home/apt,$235.00
+296,Derrick,2017-03-04,Neighborhood highlights,Entire guest suite,Entire home/apt,$134.00
+297,Eddy,2016-05-09,Neighborhood highlights,Private room in rental unit,Private room,$85.00
+298,Michaela,2014-05-18,,Private room in condo,Private room,
+299,Lisan,2013-06-10,Neighborhood highlights,Private room in rental unit,Private room,
+300,Michelle,2018-08-14,,Private room in home,Private room,
+301,Riverside,2015-12-11,,Private room in rental unit,Private room,
+302,Riverside,2015-12-11,,Private room in rental unit,Private room,
+303,,,Neighborhood highlights,Entire rental unit,Entire home/apt,
+304,Lisan,2013-06-10,Neighborhood highlights,Private room in home,Private room,
+305,Sophie,2016-01-18,,Entire rental unit,Entire home/apt,$162.00
+306,Sophie,2016-01-18,,Entire rental unit,Entire home/apt,
+307,Janice,2018-04-18,Neighborhood highlights,Entire rental unit,Entire home/apt,$185.00
+308,Doriana,2013-07-11,Neighborhood highlights,Private room in condo,Private room,$90.00
+309,Riverside,2015-12-11,,Private room in home,Private room,
+310,Sophie,2016-01-18,,Entire rental unit,Entire home/apt,$190.00
+311,Sophie,2016-01-18,,Entire townhouse,Entire home/apt,
+312,John,2018-10-02,Neighborhood highlights,Private room in rental unit,Private room,$80.00
+313,John,2018-10-02,Neighborhood highlights,Private room in rental unit,Private room,$75.00
+314,Dawn,2011-07-29,Neighborhood highlights,Private room in home,Private room,$248.00
+315,Riverside,2015-12-11,,Private room in home,Private room,
+316,Elicia,2018-06-25,,Private room in home,Private room,
+317,Eva,2013-07-09,Neighborhood highlights,Entire home,Entire home/apt,
+318,Joseph,2015-10-05,Neighborhood highlights,Entire loft,Entire home/apt,$218.00
+319,Maggie,2014-02-05,Neighborhood highlights,Entire condo,Entire home/apt,$183.00
+320,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$282.00
+321,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$329.00
+322,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$282.00
+323,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$324.00
+324,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$495.00
+325,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$303.00
+326,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$324.00
+327,Vivia,2012-11-11,Neighborhood highlights,Entire condo,Entire home/apt,$197.00
+328,Marie,2016-04-10,Neighborhood highlights,Entire home,Entire home/apt,$211.00
+329,Jean Manuel,2014-08-10,,Private room in rental unit,Private room,$104.00
+330,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$302.00
+331,Jeangabriel,2016-08-04,Neighborhood highlights,Entire rental unit,Entire home/apt,$86.00
+332,Jean Manuel,2014-08-10,,Private room in rental unit,Private room,$79.00
+333,Angel,2018-10-25,Neighborhood highlights,Private room in home,Private room,$153.00
+334,Jason,2010-03-15,Neighborhood highlights,Entire rental unit,Entire home/apt,$178.00
+335,Thomas,2014-02-25,Neighborhood highlights,Private room in rental unit,Private room,$70.00
+336,Thomas,2014-02-25,Neighborhood highlights,Private room in rental unit,Private room,$60.00
+337,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$333.00
+338,Antonio,2023-06-12,Neighborhood highlights,Private room in home,Private room,$94.00
+339,Emily,2019-03-02,Neighborhood highlights,Entire condo,Entire home/apt,
+340,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$282.00
+341,Joshua,2014-04-13,,Entire home,Entire home/apt,$553.00
+342,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,
+343,Steve,2015-09-05,,Entire serviced apartment,Entire home/apt,$303.00
+344,Steve,2015-09-05,,Entire serviced apartment,Entire home/apt,$279.00
+345,Steve,2015-09-05,,Entire serviced apartment,Entire home/apt,$252.00
+346,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$257.00
+347,Emily,2019-03-02,Neighborhood highlights,Entire condo,Entire home/apt,
+348,Tina,2015-12-18,Neighborhood highlights,Entire guest suite,Entire home/apt,
+349,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$282.00
+350,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$348.00
+351,Tang,2019-04-11,Neighborhood highlights,Entire townhouse,Entire home/apt,$361.00
+352,Carol,2018-03-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$175.00
+353,Kathleen,2018-01-15,,Entire home,Entire home/apt,$217.00
+354,,,Neighborhood highlights,Entire rental unit,Entire home/apt,$171.00
+355,,,Neighborhood highlights,Entire rental unit,Entire home/apt,$297.00
+356,,,Neighborhood highlights,Entire rental unit,Entire home/apt,$200.00
+357,Maggie,2014-02-05,Neighborhood highlights,Entire home,Entire home/apt,$200.00
+358,Catherine,2016-04-06,Neighborhood highlights,Entire home,Entire home/apt,
+359,Riverside,2015-12-11,,Private room in rental unit,Private room,
+360,Stuart,2013-08-08,Neighborhood highlights,Entire condo,Entire home/apt,$217.00
+361,Cambridge,2016-11-01,Neighborhood highlights,Entire rental unit,Entire home/apt,$361.00
+362,STARS Of,2019-06-04,Neighborhood highlights,Entire rental unit,Entire home/apt,$724.00
+363,Cynthia,2019-03-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$389.00
+364,Yan,2015-09-24,Neighborhood highlights,Entire condo,Entire home/apt,
+365,Ana & Ryan,2014-04-18,Neighborhood highlights,Entire rental unit,Entire home/apt,
+366,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$313.00
+367,J. Michael,2015-08-10,Neighborhood highlights,Private room in bed and breakfast,Private room,
+368,John Carl,2016-01-31,,Private room in rental unit,Private room,$29.00
+369,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$256.00
+370,Daniel J,2015-07-03,Neighborhood highlights,Entire rental unit,Entire home/apt,$239.00
+371,Kshitij,2011-07-29,Neighborhood highlights,Entire condo,Entire home/apt,$384.00
+372,Beth,2017-07-12,Neighborhood highlights,Private room in home,Private room,$400.00
+373,Beth,2017-07-12,Neighborhood highlights,Private room in home,Private room,$175.00
+374,Michael,2019-09-23,Neighborhood highlights,Entire rental unit,Entire home/apt,$386.00
+375,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$314.00
+376,Beth,2017-07-12,Neighborhood highlights,Private room in home,Private room,$150.00
+377,Beth,2017-07-12,Neighborhood highlights,Private room in home,Private room,$165.00
+378,Greg,2011-09-13,,Entire rental unit,Entire home/apt,$141.00
+379,Bob,2015-01-14,Neighborhood highlights,Entire home,Entire home/apt,$303.00
+380,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,
+381,Angel,2018-10-25,,Private room in townhouse,Private room,$148.00
+382,Angel,2018-10-25,,Private room in guest suite,Private room,$152.00
+383,Young Jae,2015-04-02,Neighborhood highlights,Entire rental unit,Entire home/apt,$315.00
+384,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$258.00
+385,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$250.00
+386,Cynthia,2019-03-22,Neighborhood highlights,Entire rental unit,Entire home/apt,$384.00
+387,Ronalyn,2016-09-27,Neighborhood highlights,Entire rental unit,Entire home/apt,$361.00
+388,Jessica,2016-06-18,Neighborhood highlights,Entire rental unit,Entire home/apt,$194.00
+389,Chet,2019-12-25,Neighborhood highlights,Private room in rental unit,Private room,
+390,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$348.00
+391,Angel,2018-10-25,,Private room in home,Private room,$140.00
+392,Mark,2011-08-21,Neighborhood highlights,Room in boutique hotel,Private room,$54.00
+393,Mark,2011-08-21,,Room in boutique hotel,Private room,$60.00
+394,Jamie,2012-08-28,Neighborhood highlights,Entire rental unit,Entire home/apt,
+395,Alyona,2013-10-14,,Private room in condo,Private room,$71.00
+396,Angel,2018-10-25,,Private room in home,Private room,$135.00
+397,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$112.00
+398,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$324.00
+399,Jean Manuel,2014-08-10,,Private room in rental unit,Private room,$130.00
+400,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$270.00
+401,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$324.00
+402,Steve,2015-09-05,,Entire rental unit,Entire home/apt,
+403,John,2019-04-08,Neighborhood highlights,Entire rental unit,Entire home/apt,$237.00
+404,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,
+405,Jean Manuel,2014-08-10,,Private room in rental unit,Private room,$79.00
+406,Louisa,2010-02-14,Neighborhood highlights,Entire condo,Entire home/apt,$167.00
+407,Louisa,2010-02-14,Neighborhood highlights,Entire condo,Entire home/apt,$225.00
+408,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$118.00
+409,Venn,2019-07-21,,Private room in rental unit,Private room,$122.00
+410,Jennifer,2015-09-23,,Private room in rental unit,Private room,$55.00
+411,Huaweilang,2016-08-09,,Entire condo,Entire home/apt,$100.00
+412,Jennifer,2015-09-23,,Private room in condo,Private room,$55.00
+413,Lisa,2015-05-26,Neighborhood highlights,Entire rental unit,Entire home/apt,
+414,Furnished Quarters,2014-10-14,Neighborhood highlights,Entire rental unit,Entire home/apt,$245.00
+415,Furnished Quarters,2014-10-14,Neighborhood highlights,Entire rental unit,Entire home/apt,$245.00
+416,Furnished Quarters,2014-10-14,Neighborhood highlights,Entire rental unit,Entire home/apt,$330.00
+417,Dhruva,2012-01-27,,Entire rental unit,Entire home/apt,
+418,Carrie,2013-05-28,,Entire condo,Entire home/apt,$434.00
+419,Liya,2020-10-28,Neighborhood highlights,Entire rental unit,Entire home/apt,$208.00
+420,Liya,2020-10-28,,Entire condo,Entire home/apt,$162.00
+421,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$200.00
+422,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$140.00
+423,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$198.00
+424,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$136.00
+425,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$140.00
+426,Liya,2020-10-28,Neighborhood highlights,Entire rental unit,Entire home/apt,$150.00
+427,Jacquelyn,2020-08-29,Neighborhood highlights,Entire home,Entire home/apt,$229.00
+428,Furnished Quarters,2014-10-14,Neighborhood highlights,Entire rental unit,Entire home/apt,$235.00
+429,Furnished Quarters,2014-10-14,Neighborhood highlights,Entire rental unit,Entire home/apt,$240.00
+430,Venn,2019-07-21,,Private room in home,Private room,$152.00
+431,Venn,2019-07-21,Neighborhood highlights,Private room in home,Private room,$133.00
+432,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$230.00
+433,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$230.00
+434,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$255.00
+435,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$301.00
+436,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$480.00
+437,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$210.00
+438,Liya,2020-10-28,,Private room in rental unit,Private room,$234.00
+439,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$143.00
+440,Lance,2015-09-24,Neighborhood highlights,Room in boutique hotel,Private room,
+441,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$153.00
+442,Abraham,2015-03-03,Neighborhood highlights,Entire rental unit,Entire home/apt,$254.00
+443,Liya,2020-10-28,,Entire rental unit,Entire home/apt,
+444,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$198.00
+445,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$193.00
+446,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$181.00
+447,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$131.00
+448,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$193.00
+449,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$334.00
+450,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$303.00
+451,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$465.00
+452,Lance,2015-09-24,Neighborhood highlights,Room in boutique hotel,Private room,
+453,Ian,2016-05-25,Neighborhood highlights,Private room in rental unit,Private room,
+454,Lanray,2019-06-23,Neighborhood highlights,Entire rental unit,Entire home/apt,
+455,Lanray,2019-06-23,Neighborhood highlights,Entire rental unit,Entire home/apt,
+456,Hong,2017-12-16,,Room in boutique hotel,Private room,$126.00
+457,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$203.00
+458,Xiaoguang,2015-07-15,Neighborhood highlights,Private room in home,Private room,$195.00
+459,Hong,2017-12-16,Neighborhood highlights,Room in boutique hotel,Private room,$191.00
+460,John,2018-10-02,,Private room in rental unit,Private room,$81.00
+461,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$175.00
+462,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$275.00
+463,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$276.00
+464,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$257.00
+465,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$271.00
+466,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$257.00
+467,David Sungeun,2021-02-22,Neighborhood highlights,Private room in rental unit,Private room,$87.00
+468,David Sungeun,2021-02-22,,Private room in rental unit,Private room,$90.00
+469,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$308.00
+470,Catalina,2013-11-03,,Entire rental unit,Entire home/apt,$149.00
+471,Lance,2015-09-24,Neighborhood highlights,Room in boutique hotel,Private room,$207.00
+472,Catalina,2013-11-03,,Private room in home,Private room,$80.00
+473,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$246.00
+474,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$230.00
+475,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$254.00
+476,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$451.00
+477,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$377.00
+478,Olena,2021-03-29,,Entire rental unit,Entire home/apt,$92.00
+479,Olena,2021-03-29,,Private room in rental unit,Private room,$63.00
+480,Olena,2021-03-29,,Private room in rental unit,Private room,$66.00
+481,Olena,2021-03-29,,Entire rental unit,Entire home/apt,$92.00
+482,Olena,2021-03-29,,Private room in rental unit,Private room,$75.00
+483,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$336.00
+484,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$335.00
+485,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$335.00
+486,Jennifer,2014-06-07,Neighborhood highlights,Entire rental unit,Entire home/apt,
+487,Catalina,2013-11-03,Neighborhood highlights,Entire rental unit,Entire home/apt,$142.00
+488,Olena,2021-03-29,,Entire rental unit,Entire home/apt,
+489,Ann,2019-03-11,,Private room in rental unit,Private room,$78.00
+490,Ela,2021-05-06,,Private room in rental unit,Private room,$85.00
+491,Nikkita,2021-05-06,,Private room in rental unit,Private room,$85.00
+492,Nikkita,2021-05-06,,Private room in rental unit,Private room,$85.00
+493,Marisa,2017-05-26,Neighborhood highlights,Entire rental unit,Entire home/apt,$391.00
+494,Ela,2021-05-06,,Private room in rental unit,Private room,$105.00
+495,Ela,2021-05-06,,Private room in rental unit,Private room,$75.00
+496,Aleyna,2021-05-12,,Private room in rental unit,Private room,$75.00
+497,Aleyna,2021-05-12,,Private room in rental unit,Private room,$71.00
+498,Olena,2021-03-29,,Private room in rental unit,Private room,$77.00
+499,Olena,2021-03-29,,Private room in rental unit,Private room,$80.00
+500,Karl,2012-10-19,Neighborhood highlights,Entire rental unit,Entire home/apt,$299.00
+501,Sonder (Boston),2018-11-08,Neighborhood highlights,Room in boutique hotel,Private room,$302.00
+502,Sonder (Boston),2018-11-08,Neighborhood highlights,Room in boutique hotel,Private room,$352.00
+503,Sonder (Boston),2018-11-08,Neighborhood highlights,Room in boutique hotel,Private room,$401.00
+504,Sonder (Boston),2018-11-08,Neighborhood highlights,Room in boutique hotel,Private room,$341.00
+505,Sonder (Boston),2018-11-08,Neighborhood highlights,Room in boutique hotel,Private room,$375.00
+506,Olena,2021-03-29,,Private room in rental unit,Private room,$75.00
+507,Hong,2017-12-16,,Room in boutique hotel,Private room,$146.00
+508,Lan,2021-06-25,Neighborhood highlights,Entire townhouse,Entire home/apt,$239.00
+509,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$45.00
+510,Olena,2021-03-29,,Private room in rental unit,Private room,$76.00
+511,Olena,2021-03-29,Neighborhood highlights,Private room in rental unit,Private room,$73.00
+512,Ahat,2014-05-31,,Private room in bed and breakfast,Private room,$100.00
+513,Lance,2015-09-24,Neighborhood highlights,Room in boutique hotel,Private room,$264.00
+514,Lance,2015-09-24,Neighborhood highlights,Private room in home,Private room,
+515,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$107.00
+516,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$117.00
+517,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$107.00
+518,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$116.00
+519,Nasser,2016-03-14,Neighborhood highlights,Entire townhouse,Entire home/apt,$450.00
+520,Lance,2015-09-24,Neighborhood highlights,Room in boutique hotel,Private room,
+521,Lance,2015-09-24,Neighborhood highlights,Private room in home,Private room,$248.00
+522,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$111.00
+523,Philip,2014-01-13,Neighborhood highlights,Entire rental unit,Entire home/apt,$465.00
+524,Mike,2013-12-26,Neighborhood highlights,Entire guest suite,Entire home/apt,
+525,Lijia,2021-09-03,,Private room in rental unit,Private room,
+526,Yudong,2018-12-06,,Private room in home,Private room,$57.00
+527,Yudong,2018-12-06,,Private room in home,Private room,$58.00
+528,Yudong,2018-12-06,Neighborhood highlights,Private room in home,Private room,$56.00
+529,Nathan,2013-12-03,,Entire condo,Entire home/apt,$270.00
+530,Yudong,2018-12-06,Neighborhood highlights,Private room in home,Private room,
+531,Yudong,2018-12-06,,Private room in home,Private room,$55.00
+532,Yudong,2018-12-06,,Private room in home,Private room,$56.00
+533,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$334.00
+534,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$378.00
+535,Courtyard Boston,2021-07-15,Neighborhood highlights,Room in hotel,Private room,$134.00
+536,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$387.00
+537,Lance,2015-09-24,Neighborhood highlights,Room in boutique hotel,Private room,$263.00
+538,Lance,2015-09-24,Neighborhood highlights,Room in boutique hotel,Private room,$156.00
+539,Olena,2021-03-29,,Private room in rental unit,Private room,$70.00
+540,Aaron,2014-11-20,Neighborhood highlights,Private room in rental unit,Private room,$70.00
+541,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$385.00
+542,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$280.00
+543,Jean,2014-12-26,,Entire rental unit,Entire home/apt,$404.00
+544,Karen,2017-08-12,Neighborhood highlights,Entire rental unit,Entire home/apt,$199.00
+545,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$280.00
+546,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$277.00
+547,Lance,2015-09-24,Neighborhood highlights,Room in boutique hotel,Private room,
+548,Imani,2015-07-23,Neighborhood highlights,Entire rental unit,Entire home/apt,$159.00
+549,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$424.00
+550,Candide,2021-07-06,Neighborhood highlights,Private room in rental unit,Private room,$91.00
+551,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$454.00
+552,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$241.00
+553,Christopher,2012-10-11,Neighborhood highlights,Entire rental unit,Entire home/apt,$300.00
+554,Jordan,2011-06-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$322.00
+555,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$241.00
+556,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$302.00
+557,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$388.00
+558,Marcos,2021-06-08,,Entire rental unit,Entire home/apt,$120.00
+559,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$232.00
+560,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$245.00
+561,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$140.00
+562,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$243.00
+563,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$357.00
+564,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$333.00
+565,Hong,2017-12-16,,Room in hotel,Private room,$123.00
+566,Reem,2012-09-25,Neighborhood highlights,Entire condo,Entire home/apt,$362.00
+567,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$302.00
+568,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$281.00
+569,Lynne,2016-09-04,,Private room in home,Private room,$106.00
+570,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$273.00
+571,Kama,2015-04-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$429.00
+572,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$282.00
+573,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,
+574,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,
+575,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$305.00
+576,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$305.00
+577,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$289.00
+578,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$273.00
+579,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$138.00
+580,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$54.00
+581,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$309.00
+582,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$335.00
+583,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$278.00
+584,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$335.00
+585,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$259.00
+586,Yudong,2018-12-06,,Entire home,Entire home/apt,$76.00
+587,Yudong,2018-12-06,,Private room in home,Private room,
+588,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,
+589,Mandy,2013-09-15,Neighborhood highlights,Private room in condo,Private room,
+590,Clement,2018-05-09,,Private room in bed and breakfast,Private room,$56.00
+591,Hong,2017-12-16,,Room in hotel,Private room,$94.00
+592,Hong,2017-12-16,,Room in hotel,Private room,$128.00
+593,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$261.00
+594,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,
+595,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$349.00
+596,Hong,2017-12-16,,Room in hotel,Private room,$126.00
+597,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,
+598,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$383.00
+599,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$383.00
+600,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,
+601,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$149.00
+602,Theresa,2019-01-06,Neighborhood highlights,Entire home,Entire home/apt,$807.00
+603,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$176.00
+604,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$143.00
+605,Thatch,2011-07-13,,Entire home,Entire home/apt,$162.00
+606,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$140.00
+607,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$159.00
+608,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$155.00
+609,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$128.00
+610,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$156.00
+611,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$282.00
+612,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$124.00
+613,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$128.00
+614,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$135.00
+615,Thatch,2011-07-13,,Private room in home,Private room,$124.00
+616,Thatch,2011-07-13,,Room in boutique hotel,Private room,
+617,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$140.00
+618,Dinara,2013-08-03,,Entire condo,Entire home/apt,$255.00
+619,Weijia,2015-11-21,Neighborhood highlights,Entire condo,Entire home/apt,
+620,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$277.00
+621,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$131.00
+622,Karen,2017-08-12,,Entire rental unit,Entire home/apt,$172.00
+623,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$383.00
+624,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$245.00
+625,Ekaterina,2018-02-28,,Entire condo,Entire home/apt,$292.00
+626,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,
+627,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$263.00
+628,Teresa,2018-04-05,,Entire condo,Entire home/apt,
+629,Jason,2013-04-21,,Entire rental unit,Entire home/apt,$183.00
+630,Catalina,2013-11-03,,Entire rental unit,Entire home/apt,$145.00
+631,Venn,2019-07-21,,Private room in home,Private room,$125.00
+632,Candide,2021-07-06,,Private room in rental unit,Private room,$73.00
+633,Ciarán,2018-01-19,Neighborhood highlights,Entire serviced apartment,Entire home/apt,$280.00
+634,V,2017-02-07,Neighborhood highlights,Entire home,Entire home/apt,$885.00
+635,Krista,2016-02-04,,Entire condo,Entire home/apt,$190.00
+636,Marc,2015-08-07,Neighborhood highlights,Entire home,Entire home/apt,$356.00
+637,Isabel,2014-06-01,Neighborhood highlights,Private room in rental unit,Private room,$122.00
+638,Isabel,2014-06-01,Neighborhood highlights,Private room in casa particular,Private room,$88.00
+639,Michael,2012-10-26,,Entire home,Entire home/apt,$415.00
+640,Isabel,2014-06-01,,Private room in casa particular,Private room,$86.00
+641,Isabel,2014-06-01,,Private room in rental unit,Private room,$91.00
+642,Isabel,2014-06-01,,Private room in casa particular,Private room,$65.00
+643,Deqiang,2022-05-11,,Entire home,Entire home/apt,$226.00
+644,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$271.00
+645,Hong,2017-12-16,,Room in hotel,Private room,
+646,Sebastián,2014-09-09,,Entire rental unit,Entire home/apt,
+647,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$333.00
+648,Kris,2013-07-31,,Private room in home,Private room,$111.00
+649,Hong,2017-12-16,,Room in hotel,Private room,$129.00
+650,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$296.00
+651,Hong,2017-12-16,,Room in hotel,Private room,
+652,Hong,2017-12-16,,Room in hotel,Private room,$133.00
+653,Hong,2017-12-16,,Room in hotel,Private room,$166.00
+654,Hong,2017-12-16,,Room in hotel,Private room,
+655,Hong,2017-12-16,,Room in hotel,Private room,$112.00
+656,Sofia,2020-12-17,,Private room in rental unit,Private room,$73.00
+657,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$373.00
+658,Furnished Quarters,2014-10-14,Neighborhood highlights,Entire rental unit,Entire home/apt,$240.00
+659,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$120.00
+660,Kris,2013-07-31,Neighborhood highlights,Private room in home,Private room,$129.00
+661,Sophia,2016-09-18,Neighborhood highlights,Private room in townhouse,Private room,$71.00
+662,Kc,2020-10-19,Neighborhood highlights,Entire home,Entire home/apt,$413.00
+663,Sophia,2016-09-18,Neighborhood highlights,Entire townhouse,Entire home/apt,
+664,Aleyna,2021-05-12,,Private room in rental unit,Private room,$85.00
+665,Dinara,2013-08-03,,Entire condo,Entire home/apt,
+666,Kris,2013-07-31,Neighborhood highlights,Entire place,Entire home/apt,$217.00
+667,Emil,2014-09-30,,Private room in condo,Private room,$245.00
+668,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$298.00
+669,Kirsten,2017-03-16,,Entire condo,Entire home/apt,$352.00
+670,Steve,2015-09-05,,Entire rental unit,Entire home/apt,"$2,016.00"
+671,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$234.00
+672,Kris,2013-07-31,,Private room in home,Private room,$133.00
+673,Cassandra,2022-07-09,,Entire home,Entire home/apt,$180.00
+674,Jean Manuel,2014-08-10,,Private room in rental unit,Private room,$102.00
+675,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$383.00
+676,Annie,2018-12-22,Neighborhood highlights,Private room in townhouse,Private room,$116.00
+677,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$160.00
+678,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,
+679,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$371.00
+680,Julia,2014-08-24,Neighborhood highlights,Entire rental unit,Entire home/apt,
+681,Catalina,2013-11-03,,Entire rental unit,Entire home/apt,$149.00
+682,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$359.00
+683,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$385.00
+684,Liya,2020-10-28,,Entire home,Entire home/apt,$355.00
+685,Xiaoguang,2015-07-15,Neighborhood highlights,Entire home,Entire home/apt,$598.00
+686,Xiaoguang,2015-07-15,Neighborhood highlights,Private room in home,Private room,$185.00
+687,Brooksany Elizabeth,2015-05-15,Neighborhood highlights,Entire rental unit,Entire home/apt,$219.00
+688,,,Neighborhood highlights,Entire condo,Entire home/apt,$686.00
+689,Annique,2013-08-01,,Entire rental unit,Entire home/apt,$136.00
+690,Liya,2020-10-28,,Entire home,Entire home/apt,$345.00
+691,Hong,2017-12-16,,Room in hotel,Private room,$109.00
+692,Liya,2020-10-28,,Private room in rental unit,Private room,
+693,Liya,2020-10-28,,Private room in rental unit,Private room,$108.00
+694,Liya,2020-10-28,,Private room in rental unit,Private room,$100.00
+695,Hong,2017-12-16,,Room in hotel,Private room,$111.00
+696,Deniz,2022-07-30,,Entire rental unit,Entire home/apt,$125.00
+697,Jessica,2010-11-17,Neighborhood highlights,Private room in condo,Private room,$75.00
+698,Liya,2020-10-28,,Private room in rental unit,Private room,$105.00
+699,Liya,2020-10-28,,Private room in rental unit,Private room,$105.00
+700,Liya,2020-10-28,,Private room in rental unit,Private room,$95.00
+701,Xiaoguang,2015-07-15,Neighborhood highlights,Private room in home,Private room,$145.00
+702,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$359.00
+703,Sophia,2016-09-18,Neighborhood highlights,Private room in townhouse,Private room,$103.00
+704,Annique,2013-08-01,,Entire rental unit,Entire home/apt,$168.00
+705,Lan,2022-08-14,,Entire guest suite,Entire home/apt,$239.00
+706,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,
+707,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,
+708,Jennifer,2015-09-23,,Private room in rental unit,Private room,$62.00
+709,Isabel,2014-06-01,,Private room in rental unit,Private room,$222.00
+710,Annie,2018-12-22,Neighborhood highlights,Private room in townhouse,Private room,$96.00
+711,Annie,2018-12-22,Neighborhood highlights,Private room in townhouse,Private room,$82.00
+712,Thatch,2011-07-13,Neighborhood highlights,Room in boutique hotel,Private room,$126.00
+713,Thatch,2011-07-13,,Entire home,Entire home/apt,$129.00
+714,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$310.00
+715,Sophia,2016-09-18,Neighborhood highlights,Private room in townhouse,Private room,$83.00
+716,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$273.00
+717,Hong,2017-12-16,,Room in hotel,Private room,$108.00
+718,Sophia,2016-09-18,Neighborhood highlights,Private room in townhouse,Private room,$86.00
+719,Isabel,2014-06-01,,Private room in rental unit,Private room,$214.00
+720,Parviz,2013-07-14,Neighborhood highlights,Entire loft,Entire home/apt,$236.00
+721,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$298.00
+722,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$241.00
+723,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$277.00
+724,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$259.00
+725,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$286.00
+726,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$330.00
+727,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$289.00
+728,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$259.00
+729,Hong,2017-12-16,,Room in hotel,Private room,$117.00
+730,Yudong,2018-12-06,Neighborhood highlights,Private room in home,Private room,$60.00
+731,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,
+732,Isabel,2014-06-01,,Private room in rental unit,Private room,$142.00
+733,Yudong,2018-12-06,,Private room in home,Private room,$58.00
+734,Yudong,2018-12-06,,Private room in home,Private room,$56.00
+735,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$293.00
+736,Isabel,2014-06-01,,Private room in rental unit,Private room,$86.00
+737,Robert V,2013-03-13,,Entire condo,Entire home/apt,$240.00
+738,,,,Private room in rental unit,Private room,$77.00
+739,,,,Private room in rental unit,Private room,$90.00
+740,,,,Private room in rental unit,Private room,$75.00
+741,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$518.00
+742,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$484.00
+743,Marisa,2019-11-09,Neighborhood highlights,Entire home,Entire home/apt,
+744,Marisa,2019-11-09,Neighborhood highlights,Entire home,Entire home/apt,
+745,Marisa,2019-11-09,Neighborhood highlights,Private room in home,Private room,
+746,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$350.00
+747,Annie,2018-12-22,Neighborhood highlights,Private room in townhouse,Private room,$91.00
+748,Margaret,2016-05-30,Neighborhood highlights,Entire condo,Entire home/apt,$240.00
+749,Marisa,2019-11-09,Neighborhood highlights,Private room in home,Private room,
+750,Marisa,2019-11-09,Neighborhood highlights,Private room in home,Private room,
+751,Boston,2015-07-08,Neighborhood highlights,Entire condo,Entire home/apt,$228.00
+752,Hong,2017-12-16,,Room in hotel,Private room,$117.00
+753,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,
+754,Isabel,2014-06-01,,Private room in casa particular,Private room,$52.00
+755,Venn,2019-07-21,,Private room in rental unit,Private room,$135.00
+756,Kaan,2022-11-19,,Private room in home,Private room,$85.00
+757,Kaan,2022-11-19,,Private room in rental unit,Private room,$81.00
+758,Kaan,2022-11-19,,Private room in home,Private room,$110.00
+759,Kaan,2022-11-19,,Private room in home,Private room,$89.00
+760,Kaan,2022-11-19,,Private room in home,Private room,$83.00
+761,John,2019-09-14,Neighborhood highlights,Entire rental unit,Entire home/apt,$480.00
+762,Kaan,2022-11-19,,Private room in rental unit,Private room,$92.00
+763,Amy,2013-01-09,Neighborhood highlights,Private room in home,Private room,$100.00
+764,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$324.00
+765,,,,Private room in rental unit,Private room,$86.00
+766,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$298.00
+767,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$307.00
+768,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$304.00
+769,Steve,2015-09-05,,Entire rental unit,Entire home/apt,
+770,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$333.00
+771,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$83.00
+772,,,,Private room in rental unit,Private room,$93.00
+773,Diana,2016-06-25,Neighborhood highlights,Entire guest suite,Entire home/apt,$196.00
+774,,,,Entire rental unit,Entire home/apt,$308.00
+775,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$308.00
+776,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$371.00
+777,Jean Manuel,2014-08-10,,Private room in rental unit,Private room,$90.00
+778,,,,Private room in home,Private room,$110.00
+779,Brielle,2014-07-06,Neighborhood highlights,Entire rental unit,Entire home/apt,
+780,Shelley,2011-03-27,Neighborhood highlights,Entire rental unit,Entire home/apt,$250.00
+781,Mary Ann,2014-09-08,Neighborhood highlights,Entire rental unit,Entire home/apt,$500.00
+782,Mara,2010-01-12,Neighborhood highlights,Entire home,Entire home/apt,
+783,Hong,2017-12-16,,Room in hotel,Private room,$110.00
+784,Hong,2017-12-16,,Room in hotel,Private room,
+785,Hong,2017-12-16,,Room in hotel,Private room,$120.00
+786,Boston,2015-07-08,,Entire rental unit,Entire home/apt,$99.00
+787,Isabel,2014-06-01,,Private room in casa particular,Private room,$69.00
+788,Steve,2015-09-05,,Entire rental unit,Entire home/apt,
+789,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,
+790,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$261.00
+791,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$279.00
+792,Nancy,2015-07-02,Neighborhood highlights,Entire townhouse,Entire home/apt,"$1,500.00"
+793,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$287.00
+794,Blueground,2016-12-16,Neighborhood highlights,Entire loft,Entire home/apt,$291.00
+795,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$277.00
+796,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$277.00
+797,David,2016-09-28,Neighborhood highlights,Entire rental unit,Entire home/apt,$498.00
+798,Johanna,2013-02-20,Neighborhood highlights,Entire rental unit,Entire home/apt,$550.00
+799,Paramveer,2016-06-08,,Entire rental unit,Entire home/apt,$274.00
+800,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$371.00
+801,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$93.00
+802,Yudong,2018-12-06,Neighborhood highlights,Private room in home,Private room,$59.00
+803,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$93.00
+804,Liesl,2015-10-28,Neighborhood highlights,Entire rental unit,Entire home/apt,$286.00
+805,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$280.00
+806,Elaine,2023-04-04,Neighborhood highlights,Entire home,Entire home/apt,
+807,Aspen,2023-04-04,,Entire rental unit,Entire home/apt,$999.00
+808,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,
+809,Steve,2015-09-05,,Private room in rental unit,Private room,$146.00
+810,Steve,2015-09-05,,Private room in rental unit,Private room,
+811,,,Neighborhood highlights,Entire rental unit,Entire home/apt,$392.00
+812,Yudong,2018-12-06,Neighborhood highlights,Private room in home,Private room,$62.00
+813,Yudong,2018-12-06,Neighborhood highlights,Private room in home,Private room,$58.00
+814,Yudong,2018-12-06,,Private room in home,Private room,$58.00
+815,Tingying Wu,2018-02-14,Neighborhood highlights,Entire rental unit,Entire home/apt,$130.00
+816,Chris,2012-01-14,,Private room in condo,Private room,$153.00
+817,Ivan,2022-12-26,Neighborhood highlights,Entire rental unit,Entire home/apt,
+818,Sherry,2014-09-22,Neighborhood highlights,Entire home,Entire home/apt,$495.00
+819,Yudong,2018-12-06,,Private room in home,Private room,$53.00
+820,Gokhan,2018-07-12,,Private room in home,Private room,$67.00
+821,Ivan,2022-12-26,Neighborhood highlights,Entire rental unit,Entire home/apt,$213.00
+822,Yudong,2018-12-06,,Private room in home,Private room,$63.00
+823,Dení,2014-12-17,,Entire rental unit,Entire home/apt,
+824,Steve,2015-09-05,,Private room in rental unit,Private room,$86.00
+825,Sabine,2014-06-12,,Entire rental unit,Entire home/apt,
+826,Carol,2023-05-05,,Entire rental unit,Entire home/apt,$125.00
+827,Kate,2015-01-17,Neighborhood highlights,Entire home,Entire home/apt,$400.00
+828,,,,Entire home,Entire home/apt,$235.00
+829,Ava,2015-10-27,Neighborhood highlights,Entire rental unit,Entire home/apt,$254.00
+830,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$396.00
+831,Sophia,2016-09-18,Neighborhood highlights,Private room in home,Private room,$74.00
+832,Guillermo,2015-06-21,,Entire home,Entire home/apt,$721.00
+833,Trang Diep Kieu,2023-08-02,Neighborhood highlights,Entire townhouse,Entire home/apt,$611.00
+834,Margaret,2014-10-27,Neighborhood highlights,Entire rental unit,Entire home/apt,$290.00
+835,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$157.00
+836,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$226.00
+837,Suiteness,2020-01-10,,Room in hotel,Private room,$874.00
+838,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$240.00
+839,Jordan,2011-06-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$412.00
+840,Boston,2015-07-08,,Private room in rental unit,Private room,
+841,Greg,2023-06-08,,Entire rental unit,Entire home/apt,
+842,Kama,2015-04-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$413.00
+843,STARS Of,2019-06-04,Neighborhood highlights,Entire rental unit,Entire home/apt,$512.00
+844,Ivan,2022-12-26,Neighborhood highlights,Entire rental unit,Entire home/apt,
+845,Philip,2014-01-13,Neighborhood highlights,Entire condo,Entire home/apt,$554.00
+846,Justin,2017-09-10,,Entire guesthouse,Entire home/apt,$262.00
+847,Stacy,2019-11-04,,Entire rental unit,Entire home/apt,$150.00
+848,Haroldo,2022-06-09,Neighborhood highlights,Entire condo,Entire home/apt,$437.00
+849,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$383.00
+850,Compass,2014-09-02,Neighborhood highlights,Entire serviced apartment,Entire home/apt,$250.00
+851,Compass,2014-09-02,Neighborhood highlights,Entire serviced apartment,Entire home/apt,$239.00
+852,Compass,2014-09-02,Neighborhood highlights,Entire serviced apartment,Entire home/apt,$250.00
+853,Sheamin,2016-11-06,,Entire home,Entire home/apt,$506.00
+854,Olena,2021-03-29,,Private room in rental unit,Private room,$93.00
+855,Kama,2015-04-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$198.00
+856,STARS Of,2019-06-04,Neighborhood highlights,Entire rental unit,Entire home/apt,$369.00
+857,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$375.00
+858,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$426.00
+859,Olena,2021-03-29,,Private room in rental unit,Private room,$66.00
+860,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$136.00
+861,,,,Private room in bed and breakfast,Private room,$220.00
+862,Lynne,2016-09-04,,Private room in home,Private room,$61.00
+863,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$136.00
+864,Olena,2021-03-29,,Private room in rental unit,Private room,$59.00
+865,Steve,2015-09-05,,Private room in rental unit,Private room,$83.00
+866,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$544.00
+867,Liesl,2023-08-21,,Entire rental unit,Entire home/apt,$285.00
+868,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$346.00
+869,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$172.00
+870,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$588.00
+871,Olena,2021-03-29,,Entire rental unit,Entire home/apt,$92.00
+872,Furnished Quarters,2014-10-14,,Entire rental unit,Entire home/apt,$245.00
+873,Ivan,2022-12-26,,Entire rental unit,Entire home/apt,$144.00
+874,Sophia,2019-09-25,,Private room in rental unit,Private room,
+875,Steve,2015-09-05,,Private room in rental unit,Private room,$28.00
+876,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$98.00
+877,Steve,2015-09-05,,Private room in rental unit,Private room,$28.00
+878,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$383.00
+879,Kaan,2022-11-19,,Private room in home,Private room,$80.00
+880,Kaan,2022-11-19,,Private room in home,Private room,$89.00
+881,Kaan,2022-11-19,,Private room in home,Private room,$75.00
+882,Kaan,2022-11-19,,Private room in home,Private room,$73.00
+883,RoomPicks,2023-02-20,Neighborhood highlights,Room in hotel,Hotel room,$496.00
+884,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$148.00
+885,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$148.00
+886,Taskin,2014-05-05,,Private room in home,Private room,$85.00
+887,Maryann,2018-04-04,,Entire rental unit,Entire home/apt,$180.00
+888,Compass,2014-09-02,Neighborhood highlights,Entire serviced apartment,Entire home/apt,
+889,Kama,2015-04-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$187.00
+890,Steve,2015-09-05,,Private room in rental unit,Private room,
+891,STARS Of,2019-06-04,Neighborhood highlights,Entire rental unit,Entire home/apt,$224.00
+892,Steve,2015-09-05,,Private room in rental unit,Private room,
+893,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$413.00
+894,Compass,2014-09-02,Neighborhood highlights,Entire serviced apartment,Entire home/apt,$299.00
+895,Christiana,2016-06-18,,Private room in home,Private room,$125.00
+896,Courtyard Boston,2021-07-15,Neighborhood highlights,Room in hotel,Private room,$142.00
+897,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$87.00
+898,Steve,2015-09-05,,Private room in rental unit,Private room,$45.00
+899,Steve,2015-09-05,,Private room in rental unit,Private room,$43.00
+900,Steve,2015-09-05,,Private room in rental unit,Private room,$42.00
+901,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$254.00
+902,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$282.00
+903,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$301.00
+904,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$281.00
+905,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$281.00
+906,Donald,2023-10-18,Neighborhood highlights,Entire rental unit,Entire home/apt,$315.00
+907,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$280.00
+908,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$261.00
+909,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$75.00
+910,Adam,2017-12-23,,Entire rental unit,Entire home/apt,$439.00
+911,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$201.00
+912,Lynne,2016-09-04,,Private room in home,Private room,$61.00
+913,Isabel,2014-10-21,,Private room in guesthouse,Private room,$43.00
+914,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$348.00
+915,Liya,2020-10-28,,Private room in rental unit,Private room,$95.00
+916,Liya,2020-10-28,,Private room in rental unit,Private room,$92.00
+917,Liya,2020-10-28,,Private room in rental unit,Private room,$120.00
+918,Liya,2020-10-28,,Private room in rental unit,Private room,$95.00
+919,Liya,2020-10-28,,Private room in rental unit,Private room,$100.00
+920,Liya,2020-10-28,,Private room in rental unit,Private room,$100.00
+921,Liya,2020-10-28,,Private room in rental unit,Private room,$92.00
+922,Liya,2020-10-28,,Private room in rental unit,Private room,$100.00
+923,Liya,2020-10-28,,Private room in rental unit,Private room,$100.00
+924,Liya,2020-10-28,,Private room in rental unit,Private room,$88.00
+925,Liya,2020-10-28,,Private room in rental unit,Private room,$100.00
+926,Liya,2020-10-28,,Private room in rental unit,Private room,$83.00
+927,Taskin,2014-05-05,,Private room in home,Private room,$82.00
+928,Elizabeth,2022-12-12,Neighborhood highlights,Entire rental unit,Entire home/apt,$153.00
+929,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$337.00
+930,Liya,2020-10-28,,Private room in rental unit,Private room,$90.00
+931,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$466.00
+932,Brian,2021-03-31,,Private room in bed and breakfast,Private room,$200.00
+933,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$721.00
+934,Furnished Quarters,2014-10-14,,Entire rental unit,Entire home/apt,$245.00
+935,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$769.00
+936,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$81.00
+937,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$107.00
+938,Gokhan,2018-07-12,Neighborhood highlights,Private room in home,Private room,
+939,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$409.00
+940,Emelio,2014-02-01,,Entire rental unit,Entire home/apt,
+941,Gokhan,2018-07-12,,Private room in home,Private room,$75.00
+942,Gokhan,2018-07-12,,Private room in home,Private room,$68.00
+943,,,,Private room in rental unit,Private room,$81.00
+944,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$340.00
+945,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$332.00
+946,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$496.00
+947,Farah,2014-02-05,,Entire rental unit,Entire home/apt,
+948,Freepoint Hotel,2023-12-14,Neighborhood highlights,Room in hotel,Private room,
+949,Freepoint Hotel,2023-12-14,Neighborhood highlights,Room in hotel,Private room,
+950,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$324.00
+951,LAN Lan,2015-10-14,,Private room in rental unit,Private room,$139.00
+952,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$292.00
+953,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$274.00
+954,Liu,2023-12-28,,Room in hotel,Private room,$209.00
+955,Mei,2015-05-03,Neighborhood highlights,Private room in bed and breakfast,Private room,$440.00
+956,Atul,2023-12-26,,Private room in rental unit,Private room,$77.00
+957,Atul,2023-12-26,,Private room in rental unit,Private room,$73.00
+958,Ana,2021-01-12,,Entire rental unit,Entire home/apt,$349.00
+959,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$283.00
+960,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$333.00
+961,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$153.00
+962,Audrey,2011-08-14,,Private room in home,Private room,$162.00
+963,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$315.00
+964,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$273.00
+965,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$205.00
+966,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$286.00
+967,Luca,2021-08-08,,Entire rental unit,Entire home/apt,$220.00
+968,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$324.00
+969,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$357.00
+970,Liya,2020-10-28,,Private room in rental unit,Private room,
+971,Liya,2020-10-28,,Private room in rental unit,Private room,
+972,Andrew,2023-01-21,Neighborhood highlights,Entire home,Entire home/apt,$118.00
+973,Liya,2020-10-28,,Private room in rental unit,Private room,
+974,Liya,2020-10-28,,Private room in rental unit,Private room,
+975,Ken,2016-05-07,Neighborhood highlights,Entire rental unit,Entire home/apt,$60.00
+976,Liya,2020-10-28,,Private room in rental unit,Private room,
+977,Liya,2020-10-28,,Private room in rental unit,Private room,
+978,Liya,2020-10-28,,Private room in rental unit,Private room,
+979,Liya,2020-10-28,,Private room in rental unit,Private room,
+980,Liya,2020-10-28,,Private room in rental unit,Private room,$150.00
+981,Liya,2020-10-28,,Private room in rental unit,Private room,
+982,Liya,2020-10-28,,Private room in rental unit,Private room,
+983,Liya,2020-10-28,,Private room in rental unit,Private room,
+984,Sofia,2020-12-17,,Private room in rental unit,Private room,$95.00
+985,Sofia,2020-12-17,,Private room in rental unit,Private room,$94.00
+986,Sofia,2020-12-17,,Private room in rental unit,Private room,$98.00
+987,Sofia,2020-12-17,,Private room in rental unit,Private room,$100.00
+988,Sofia,2020-12-17,,Private room in rental unit,Private room,$95.00
+989,Sofia,2020-12-17,,Private room in rental unit,Private room,$100.00
+990,Sofia,2020-12-17,,Private room in rental unit,Private room,
+991,Sofia,2020-12-17,,Private room in rental unit,Private room,
+992,Sofia,2020-12-17,,Private room in rental unit,Private room,
+993,Sofia,2020-12-17,,Private room in rental unit,Private room,$120.00
+994,Sofia,2020-12-17,,Private room in rental unit,Private room,$86.00
+995,Sofia,2020-12-17,,Private room in rental unit,Private room,$80.00
+996,Sofia,2020-12-17,,Private room in rental unit,Private room,
+997,Sofia,2020-12-17,,Private room in rental unit,Private room,
+998,Sofia,2020-12-17,,Private room in rental unit,Private room,$100.00
+999,Sofia,2020-12-17,,Private room in rental unit,Private room,$100.00
+1000,Kevin,2012-04-10,,Entire home,Entire home/apt,$553.00
+1001,Sofia,2020-12-17,,Private room in rental unit,Private room,$90.00
+1002,Sofia,2020-12-17,,Private room in rental unit,Private room,$80.00
+1003,Sofia,2020-12-17,,Private room in rental unit,Private room,
+1004,Sofia,2020-12-17,,Private room in rental unit,Private room,$120.00
+1005,Sofia,2020-12-17,,Private room in rental unit,Private room,$100.00
+1006,Steve,2015-09-05,,Private room in rental unit,Private room,$99.00
+1007,Sofia,2020-12-17,,Private room in rental unit,Private room,$80.00
+1008,Sofia,2020-12-17,,Private room in rental unit,Private room,
+1009,Sofia,2020-12-17,,Private room in rental unit,Private room,
+1010,Steve,2015-09-05,,Private room in rental unit,Private room,$103.00
+1011,Liya,2020-10-28,,Private room in rental unit,Private room,$100.00
+1012,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$239.00
+1013,Sofia,2020-12-17,,Private room in rental unit,Private room,$105.00
+1014,Furnished Quarters,2014-10-14,,Entire rental unit,Entire home/apt,$320.00
+1015,Hotel Veritas,2024-01-23,,Room in hotel,Private room,
+1016,Hotel Veritas,2024-01-23,,Room in hotel,Private room,$213.00
+1017,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$522.00
+1018,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$334.00
+1019,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$280.00
+1020,Regina,2015-06-24,,Entire rental unit,Entire home/apt,$250.00
+1021,Ayal,2012-03-22,,Entire rental unit,Entire home/apt,$239.00
+1022,Pierre,2018-07-05,,Entire rental unit,Entire home/apt,
+1023,Yudong,2018-12-06,Neighborhood highlights,Private room in home,Private room,$56.00
+1024,Yudong,2018-12-06,Neighborhood highlights,Private room in home,Private room,$63.00
+1025,Vendy,2020-05-25,,Private room in rental unit,Private room,$89.00
+1026,Liya,2020-10-28,,Private room in rental unit,Private room,
+1027,Liya,2020-10-28,,Private room in rental unit,Private room,
+1028,Sarah,2015-05-24,,Entire condo,Entire home/apt,$225.00
+1029,Gokhan,2018-07-12,Neighborhood highlights,Private room in home,Private room,
+1030,Steve,2015-09-05,,Private room in rental unit,Private room,$165.00
+1031,Minge,2024-03-20,,Entire home,Entire home/apt,$159.00
+1032,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$347.00
+1033,Kama,2015-04-16,Neighborhood highlights,Entire home,Entire home/apt,$245.00
+1034,STARS Of,2019-06-04,Neighborhood highlights,Entire rental unit,Entire home/apt,$373.00
+1035,Yudong,2018-12-06,Neighborhood highlights,Private room in home,Private room,$62.00
+1036,Ela,2021-05-06,,Private room in rental unit,Private room,$73.00
+1037,Yehoshua,2022-02-14,,Entire rental unit,Entire home/apt,
+1038,Lynne,2016-09-04,,Private room in home,Private room,$61.00
+1039,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$280.00
+1040,Steve,2015-09-05,Neighborhood highlights,Entire rental unit,Entire home/apt,$141.00
+1041,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$80.00
+1042,Yudong,2018-12-06,Neighborhood highlights,Private room in home,Private room,$63.00
+1043,Yudong,2018-12-06,Neighborhood highlights,Private room in home,Private room,$60.00
+1044,Asraf,2024-04-15,,Entire rental unit,Entire home/apt,$334.00
+1045,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$92.00
+1046,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$62.00
+1047,Steve,2015-09-05,,Private room in rental unit,Private room,$117.00
+1048,Steve,2015-09-05,,Private room in rental unit,Private room,$138.00
+1049,Taskin,2014-05-05,,Private room in rental unit,Private room,$88.00
+1050,Veronica,2011-08-21,,Entire condo,Entire home/apt,$132.00
+1051,Raphael,2024-04-30,,Entire rental unit,Entire home/apt,$432.00
+1052,Sophia,2016-09-18,,Private room in home,Private room,$95.00
+1053,Anda,2015-06-09,,Entire townhouse,Entire home/apt,$329.00
+1054,Patrick,2018-01-06,,Entire rental unit,Entire home/apt,$186.00
+1055,Benjamin,2014-08-11,,Private room in rental unit,Private room,$126.00
+1056,Paramveer,2016-06-08,,Entire rental unit,Entire home/apt,$439.00
+1057,Elena,2022-05-07,Neighborhood highlights,Entire rental unit,Entire home/apt,$240.00
+1058,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$485.00
+1059,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$508.00
+1060,Ivan,2022-12-26,,Entire rental unit,Entire home/apt,
+1061,Angel,2018-10-25,,Private room in townhouse,Private room,$143.00
+1062,Zainab,2024-05-25,,Private room in condo,Private room,$176.00
+1063,Yujia,2024-05-24,,Private room in home,Private room,$126.00
+1064,Imani,2015-07-23,,Entire rental unit,Entire home/apt,$150.00
+1065,Zainab,2015-10-08,Neighborhood highlights,Entire rental unit,Entire home/apt,$370.00
+1066,Kazeem Prince,2016-03-05,,Private room in rental unit,Private room,$73.00
+1067,Kazeem Prince,2016-03-05,,Private room in rental unit,Private room,$70.00
+1068,Angel,2018-10-25,,Private room in home,Private room,$131.00
+1069,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$135.00
+1070,Taskin,2014-05-05,,Private room in rental unit,Private room,$87.00
+1071,Lori,2017-03-29,Neighborhood highlights,Entire rental unit,Entire home/apt,$457.00
+1072,Christiana,2016-06-18,,Private room in home,Private room,$91.00
+1073,Jillian,2011-09-03,,Entire guest suite,Entire home/apt,$224.00
+1074,Christiana,2016-06-18,,Private room in home,Private room,$75.00
+1075,Pinyen,2024-06-21,,Private room in bed and breakfast,Private room,$85.00
+1076,Liya,2020-10-28,,Private room in rental unit,Private room,
+1077,Liya,2020-10-28,,Private room in rental unit,Private room,
+1078,Liya,2020-10-28,,Private room in rental unit,Private room,
+1079,Yuan,2016-07-10,,Private room in rental unit,Private room,
+1080,Justin,2013-02-17,,Private room in bed and breakfast,Private room,$172.00
+1081,Belter,2024-06-24,Neighborhood highlights,Room in hotel,Private room,$179.00
+1082,Belter,2024-06-24,Neighborhood highlights,Room in hotel,Private room,$217.00
+1083,Belter,2024-06-24,Neighborhood highlights,Room in hotel,Private room,$183.00
+1084,Kris,2013-07-31,,Private room in home,Private room,$299.00
+1085,Santiago,2024-07-01,,Entire rental unit,Entire home/apt,$421.00
+1086,Liya,2020-10-28,,Private room in rental unit,Private room,
+1087,Liya,2020-10-28,,Private room in rental unit,Private room,
+1088,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$344.00
+1089,Tang,2019-04-11,,Entire townhouse,Entire home/apt,$348.00
+1090,Rishi,2014-01-09,,Entire home,Entire home/apt,$203.00
+1091,Tang,2019-04-11,,Entire home,Entire home/apt,$684.00
+1092,Blake,2016-05-25,,Entire rental unit,Entire home/apt,
+1093,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$436.00
+1094,Alyona,2013-10-14,,Private room in rental unit,Private room,$43.00
+1095,Pinyen,2024-06-21,,Private room in home,Private room,$175.00
+1096,Kenneth,2016-09-11,Neighborhood highlights,Entire rental unit,Entire home/apt,$371.00
+1097,Pinyen,2024-06-21,,Private room in home,Private room,$179.00
+1098,Cameron,2021-01-02,,Entire rental unit,Entire home/apt,$420.00
+1099,Benjamin,2014-08-11,,Private room in rental unit,Private room,$98.00
+1100,Mike,2013-12-26,,Private room in home,Private room,
+1101,Grace,2021-10-06,,Entire home,Entire home/apt,$500.00
+1102,Liya,2020-10-28,,Private room in rental unit,Private room,
+1103,Grace,2021-10-06,,Private room in home,Private room,$190.00
+1104,Sherry,2012-07-21,,Entire home,Entire home/apt,$190.00
+1105,Jakob,2021-02-23,,Private room in home,Private room,$76.00
+1106,Jakob,2021-02-23,,Private room in home,Private room,$76.00
+1107,Grace,2021-10-06,,Private room in home,Private room,$282.00
+1108,Lori,2017-03-29,,Entire rental unit,Entire home/apt,$264.00
+1109,Fidel,2015-10-05,,Entire rental unit,Entire home/apt,
+1110,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$263.00
+1111,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$386.00
+1112,Pinyen,2024-06-21,,Private room in bed and breakfast,Private room,$89.00
+1113,Pinyen,2024-06-21,,Private room in bed and breakfast,Private room,$75.00
+1114,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$588.00
+1115,Sheldon,2016-04-04,,Private room in home,Private room,$82.00
+1116,Sheldon,2016-04-04,,Private room in home,Private room,$82.00
+1117,Sofia,2020-12-17,,Private room in home,Private room,
+1118,Sofia,2020-12-17,,Private room in home,Private room,
+1119,Ivan,2022-12-26,,Entire rental unit,Entire home/apt,
+1120,Drew,2015-09-07,,Entire rental unit,Entire home/apt,$500.00
+1121,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$263.00
+1122,Moon,2014-10-10,,Private room in rental unit,Private room,$90.00
+1123,Taskin,2014-05-05,,Private room in rental unit,Private room,$92.00
+1124,,,,Entire rental unit,Entire home/apt,$601.00
+1125,April,2014-02-02,,Entire rental unit,Entire home/apt,
+1126,Elizabeth,2022-12-12,,Entire rental unit,Entire home/apt,
+1127,John,2018-10-02,,Private room in rental unit,Private room,$90.00
+1128,Kama,2015-04-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$159.00
+1129,Ann,2019-03-11,,Private room in rental unit,Private room,$80.00
+1130,Junzi,2014-07-11,,Entire rental unit,Entire home/apt,
+1131,Tra My,2023-02-20,Neighborhood highlights,Entire home,Entire home/apt,$740.00
+1132,Shane,2024-09-23,Neighborhood highlights,Entire rental unit,Entire home/apt,$227.00
+1133,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$142.00
+1134,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$195.00
+1135,Shane,2024-09-23,Neighborhood highlights,Entire rental unit,Entire home/apt,$269.00
+1136,Shane,2024-09-23,Neighborhood highlights,Entire rental unit,Entire home/apt,$160.00
+1137,Shane,2024-09-23,,Entire rental unit,Entire home/apt,$227.00
+1138,Paige,2015-02-13,Neighborhood highlights,Entire home,Entire home/apt,
+1139,Shane,2024-09-23,,Entire rental unit,Entire home/apt,$346.00
+1140,Shane,2024-09-23,,Entire rental unit,Entire home/apt,$227.00
+1141,Ugo,2011-11-21,,Entire rental unit,Entire home/apt,$150.00
+1142,Sungjoo,2014-05-20,,Entire home,Entire home/apt,$366.00
+1143,Lynne,2016-09-04,,Private room in home,Private room,$65.00
+1144,Shane,2024-09-23,,Entire rental unit,Entire home/apt,$338.00
+1145,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$650.00
+1146,Trang Diep Kieu,2023-08-02,,Entire villa,Entire home/apt,$524.00
+1147,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$353.00
+1148,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$387.00
+1149,Taskin,2014-05-05,,Private room in rental unit,Private room,$85.00
+1150,Hui,2024-08-09,,Private room in rental unit,Private room,
+1151,Taskin,2014-05-05,,Private room in rental unit,Private room,$86.00
+1152,Zhengyi,2024-06-07,,Private room in home,Private room,$107.00
+1153,Ying,2016-04-25,,Private room in home,Private room,$92.00
+1154,Taskin,2014-05-05,,Private room in rental unit,Private room,$83.00
+1155,Taskin,2014-05-05,,Entire rental unit,Entire home/apt,$113.00
+1156,Delphine,2014-07-24,,Entire rental unit,Entire home/apt,$389.00
+1157,Barbara,2012-11-13,,Entire rental unit,Entire home/apt,
+1158,Janesh,2024-10-18,,Private room in home,Private room,$108.00
+1159,Janesh,2024-10-18,,Private room in home,Private room,$150.00
+1160,Tra My,2023-02-20,,Private room in home,Private room,
+1161,Tra My,2023-02-20,,Private room in home,Private room,
+1162,Tra My,2023-02-20,,Private room in home,Private room,
+1163,Tra My,2023-02-20,,Private room in home,Private room,
+1164,Blueground,2016-12-16,,Entire rental unit,Entire home/apt,$260.00
+1165,Janesh,2024-10-18,,Entire home,Entire home/apt,$700.00
+1166,,,,Private room in rental unit,Private room,$66.00
+1167,Kama,2015-04-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$214.00
+1168,Jeff,2013-10-14,,Private room in rental unit,Private room,$89.00
+1169,Maria,2011-09-12,,Entire condo,Entire home/apt,$144.00
+1170,Ivan,2022-12-26,,Entire rental unit,Entire home/apt,$132.00
+1171,,,Neighborhood highlights,Entire rental unit,Entire home/apt,$190.00
+1172,Ahu,2011-10-24,,Entire home,Entire home/apt,$748.00
+1173,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,"$40,000.00"
+1174,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$372.00
+1175,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,"$40,000.00"
+1176,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,"$40,000.00"
+1177,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$276.00
+1178,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$266.00
+1179,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$288.00
+1180,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$260.00
+1181,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$281.00
+1182,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$383.00
+1183,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$419.00
+1184,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,"$40,000.00"
+1185,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,"$40,000.00"
+1186,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,
+1187,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,"$40,000.00"
+1188,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,"$40,000.00"
+1189,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,"$50,000.00"
+1190,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$242.00
+1191,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$249.00
+1192,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$272.00
+1193,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$238.00
+1194,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,"$40,000.00"
+1195,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$222.00
+1196,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$203.00
+1197,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$243.00
+1198,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$265.00
+1199,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$222.00
+1200,Lori,2017-03-29,,Entire rental unit,Entire home/apt,$544.00
+1201,Vidhi,2019-07-03,,Entire rental unit,Entire home/apt,$179.00
+1202,Kama,2015-04-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$355.00
+1203,Liya,2020-10-28,,Private room in rental unit,Private room,$45.00
+1204,Liya,2020-10-28,,Private room in rental unit,Private room,$56.00
+1205,Liya,2020-10-28,,Private room in rental unit,Private room,$52.00
+1206,Tra My,2023-02-20,,Entire home,Entire home/apt,$549.00
+1207,Liya,2020-10-28,,Private room in rental unit,Private room,
+1208,Liya,2020-10-28,,Private room in rental unit,Private room,$45.00
+1209,Taskin,2014-05-05,,Private room in home,Private room,$106.00
+1210,Michelle,2018-08-14,,Private room in home,Private room,$63.00
+1211,Liya,2020-10-28,,Private room in rental unit,Private room,$55.00
+1212,Fairfield Inn Suites Boston Ca,2024-12-10,,Room in hotel,Private room,$168.00
+1213,Liya,2020-10-28,,Private room in rental unit,Private room,$56.00
+1214,Liya,2020-10-28,,Private room in rental unit,Private room,$104.00
+1215,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$121.00
+1216,Brianie,2023-12-05,,Private room in home,Private room,$119.00
+1217,Liya,2020-10-28,,Private room in rental unit,Private room,$60.00
+1218,Liya,2020-10-28,,Private room in rental unit,Private room,$58.00
+1219,Liya,2020-10-28,,Private room in rental unit,Private room,$62.00
+1220,Karen,2017-08-12,,Entire rental unit,Entire home/apt,$131.00
+1221,Tina,2023-08-22,,Private room in rental unit,Private room,$52.00
+1222,Liya,2020-10-28,,Private room in rental unit,Private room,
+1223,Liya,2020-10-28,,Private room in rental unit,Private room,$48.00
+1224,Liya,2020-10-28,,Private room in rental unit,Private room,
+1225,Liya,2020-10-28,,Private room in rental unit,Private room,
+1226,Luigi Boy Pabua,2024-12-19,Neighborhood highlights,Room in hotel,Private room,$181.00
+1227,Luigi Boy Pabua,2024-12-19,Neighborhood highlights,Room in hotel,Private room,$182.00
+1228,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$238.00
+1229,Liya,2020-10-28,,Private room in rental unit,Private room,$104.00
+1230,Liya,2020-10-28,,Private room in rental unit,Private room,$48.00
+1231,Liya,2020-10-28,,Private room in rental unit,Private room,$76.00
+1232,Liya,2020-10-28,,Private room in rental unit,Private room,$56.00
+1233,Liya,2020-10-28,,Private room in rental unit,Private room,$46.00
+1234,Liya,2020-10-28,,Private room in rental unit,Private room,$104.00
+1235,Liya,2020-10-28,,Private room in rental unit,Private room,$55.00
+1236,Liya,2020-10-28,,Private room in rental unit,Private room,$56.00
+1237,Liya,2020-10-28,,Private room in rental unit,Private room,
+1238,Emma,2014-10-10,,Entire rental unit,Entire home/apt,
+1239,Liya,2020-10-28,,Private room in rental unit,Private room,$35.00
+1240,Liya,2020-10-28,,Private room in rental unit,Private room,
+1241,Liya,2020-10-28,,Private room in rental unit,Private room,$44.00
+1242,Liya,2020-10-28,,Private room in rental unit,Private room,$44.00
+1243,Liya,2020-10-28,,Private room in rental unit,Private room,$37.00
+1244,Liya,2020-10-28,,Private room in rental unit,Private room,
+1245,Liya,2020-10-28,,Private room in rental unit,Private room,
+1246,Liya,2020-10-28,,Private room in rental unit,Private room,$50.00
+1247,Liya,2020-10-28,,Private room in rental unit,Private room,$49.00
+1248,Liya,2020-10-28,,Private room in rental unit,Private room,$48.00
+1249,Liya,2020-10-28,,Private room in rental unit,Private room,$52.00
+1250,Liya,2020-10-28,,Private room in rental unit,Private room,
+1251,Hafiz,2021-01-15,,Entire home,Entire home/apt,$90.00
+1252,Cai,2013-10-06,,Private room in townhouse,Private room,$144.00
+1253,Siyu,2018-03-11,,Entire rental unit,Entire home/apt,$307.00
+1254,Cai,2013-10-06,,Private room in home,Private room,$162.00
+1255,Thomas,2025-01-13,,Entire rental unit,Entire home/apt,$239.00
+1256,Bassem,2025-01-14,,Entire rental unit,Entire home/apt,$243.00
+1257,Bassem,2025-01-14,,Entire rental unit,Entire home/apt,$292.00
+1258,Cai,2013-10-06,,Private room in home,Private room,$144.00
+1259,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$333.00
+1260,Thomas,2025-01-13,,Private room in rental unit,Private room,$120.00
+1261,Thomas,2025-01-13,,Private room in rental unit,Private room,$91.00
+1262,Harvard Square Hotel Cambridge,2024-02-13,,Room in hotel,Private room,
+1263,Harvard Square Hotel Cambridge,2024-02-13,,Room in hotel,Private room,
+1264,Harvard Square Hotel Cambridge,2024-02-13,,Room in hotel,Private room,
+1265,Harvard Square Hotel Cambridge,2024-02-13,,Room in hotel,Private room,
+1266,Harvard Square Hotel Cambridge,2024-02-13,,Room in hotel,Private room,
+1267,Natasha,2015-05-01,,Entire rental unit,Entire home/apt,$200.00
+1268,Zhengyi,2024-06-07,,Private room in home,Private room,$104.00
+1269,Tina,2023-08-22,,Private room in rental unit,Private room,$50.00
+1270,Tina,2023-08-22,,Private room in rental unit,Private room,$49.00
+1271,Tina,2023-08-22,,Private room in rental unit,Private room,$72.00
+1272,Tina,2023-08-22,,Private room in rental unit,Private room,$57.00
+1273,Tina,2023-08-22,,Private room in rental unit,Private room,$60.00
+1274,Tina,2023-08-22,,Private room in rental unit,Private room,$47.00
+1275,Tina,2023-08-22,,Private room in rental unit,Private room,$53.00
+1276,Tina,2023-08-22,,Private room in rental unit,Private room,$66.00
+1277,Tina,2023-08-22,Neighborhood highlights,Private room in rental unit,Private room,$54.00
+1278,Tina,2023-08-22,,Private room in rental unit,Private room,$80.00
+1279,Tina,2023-08-22,Neighborhood highlights,Private room in rental unit,Private room,$52.00
+1280,Tina,2023-08-22,,Private room in rental unit,Private room,$58.00
+1281,Tina,2023-08-22,,Private room in rental unit,Private room,$51.00
+1282,Tina,2023-08-22,,Private room in rental unit,Private room,
+1283,Tina,2023-08-22,,Private room in rental unit,Private room,$63.00
+1284,Tra My,2023-02-20,,Entire home,Entire home/apt,$637.00
+1285,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$346.00
+1286,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$298.00
+1287,Tina,2023-08-22,,Private room in rental unit,Private room,$55.00
+1288,Tina,2023-08-22,,Private room in rental unit,Private room,$69.00
+1289,,,,Private room in rental unit,Private room,$65.00
+1290,,,,Private room in rental unit,Private room,$67.00
+1291,Evolve,2017-03-24,Neighborhood highlights,Entire rental unit,Entire home/apt,$164.00
+1292,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$84.00
+1293,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$333.00
+1294,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$550.00
+1295,Haroldo,2022-06-09,,Entire rental unit,Entire home/apt,$498.00
+1296,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$301.00
+1297,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$778.00
+1298,Deqiang,2022-05-11,,Entire home,Entire home/apt,$221.00
+1299,Tina,2023-08-22,,Private room in rental unit,Private room,$54.00
+1300,Tingying Wu,2018-02-14,,Entire rental unit,Entire home/apt,$198.00
+1301,Liya,2020-10-28,,Private room in rental unit,Private room,
+1302,,,Neighborhood highlights,Entire rental unit,Entire home/apt,$886.00
+1303,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$278.00
+1304,Steve,2015-09-05,,Private room in rental unit,Private room,$29.00
+1305,Steve,2015-09-05,,Private room in rental unit,Private room,$29.00
+1306,Steve,2015-09-05,,Private room in rental unit,Private room,$41.00
+1307,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$170.00
+1308,Luca,2021-08-08,,Entire rental unit,Entire home/apt,$165.00
+1309,Flora,2018-05-23,,Entire rental unit,Entire home/apt,$110.00
+1310,Emma,2014-10-10,Neighborhood highlights,Entire home,Entire home/apt,
+1311,Kendall Hotel,2025-03-17,,Room in hotel,Private room,
+1312,Kendall Hotel,2025-03-17,,Room in hotel,Private room,
+1313,Kendall Hotel,2025-03-17,,Room in hotel,Private room,
+1314,Kendall Hotel,2025-03-17,,Room in hotel,Private room,
+1315,Kendall Hotel,2025-03-17,,Room in hotel,Private room,
+1316,Kendall Hotel,2025-03-17,,Room in hotel,Private room,
+1317,Charles A.,2011-09-17,,Entire rental unit,Entire home/apt,$206.00
+1318,Andrew,2018-07-04,,Entire rental unit,Entire home/apt,$191.00
+1319,Liya,2020-10-28,,Entire rental unit,Entire home/apt,$133.00
+1320,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$28.00
+1321,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$93.00
+1322,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$28.00
+1323,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$60.00
+1324,Delphine,2014-07-24,,Entire rental unit,Entire home/apt,$823.00
+1325,Delphine,2014-07-24,,Entire rental unit,Entire home/apt,$680.00
+1326,Delphine,2014-07-24,,Entire rental unit,Entire home/apt,$680.00
+1327,Delphine,2014-07-24,,Entire rental unit,Entire home/apt,"$1,141.00"
+1328,John,2019-06-30,,Entire rental unit,Entire home/apt,$450.00
+1329,,,,Entire rental unit,Entire home/apt,$945.00
+1330,Taskin,2014-05-05,,Private room in home,Private room,$93.00
+1331,Taskin,2014-05-05,,Private room in home,Private room,$95.00
+1332,Jennifer,2016-05-08,,Entire home,Entire home/apt,$616.00
+1333,Tra My,2023-02-20,,Entire rental unit,Entire home/apt,$514.00
+1334,Tejas,2022-06-21,,Entire home,Entire home/apt,$288.00
+1335,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$254.00
+1336,Aishat,2024-10-16,Neighborhood highlights,Room in hotel,Hotel room,$222.00
+1337,Tina,2023-08-22,,Private room in rental unit,Private room,$60.00
+1338,Tina,2023-08-22,,Private room in rental unit,Private room,$66.00
+1339,Tina,2023-08-22,,Private room in rental unit,Private room,$53.00
+1340,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$119.00
+1341,Anh,2025-04-10,,Entire home,Entire home/apt,$362.00
+1342,Helen,2025-04-11,,Entire rental unit,Entire home/apt,$87.00
+1343,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$142.00
+1344,Jean Manuel,2014-08-10,,Private room in rental unit,Private room,$112.00
+1345,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$255.00
+1346,Zayetta,2013-11-10,,Private room in rental unit,Private room,$120.00
+1347,Haroldo,2022-06-09,Neighborhood highlights,Entire rental unit,Entire home/apt,$484.00
+1348,Alena,2015-05-22,,Entire rental unit,Entire home/apt,$175.00
+1349,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$945.00
+1350,Steve,2015-09-05,Neighborhood highlights,Private room in rental unit,Private room,$35.00
+1351,Kama,2015-04-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$224.00
+1352,Mouad,2025-02-24,,Entire rental unit,Entire home/apt,$354.00
+1353,Sherry,2012-07-21,,Entire home,Entire home/apt,$204.00
+1354,Elliot,2017-10-30,,Entire rental unit,Entire home/apt,$75.00
+1355,STARS Of,2019-06-04,Neighborhood highlights,Entire rental unit,Entire home/apt,$148.00
+1356,Catalina,2013-11-03,,Entire rental unit,Entire home/apt,$164.00
+1357,Deana,2016-01-16,,Entire rental unit,Entire home/apt,$254.00
+1358,Blueground,2016-12-16,Neighborhood highlights,Entire rental unit,Entire home/apt,$305.00
+1359,Steve,2015-09-05,,Entire rental unit,Entire home/apt,$417.00
+1360,Cayla,2025-05-30,,Entire condo,Entire home/apt,$349.00
+1361,,,,Entire rental unit,Entire home/apt,"$1,040.00"
+1362,Lynne,2016-09-04,,Private room in home,Private room,$60.00
+1363,Taskin,2014-05-05,,Private room in home,Private room,$89.00
+1364,Taskin,2014-05-05,,Private room in rental unit,Private room,$104.00
+1365,Taskin,2014-05-05,,Private room in rental unit,Private room,$104.00
+1366,Aric,2017-08-01,,Entire rental unit,Entire home/apt,$168.00
+1367,Emily,2016-01-27,,Entire rental unit,Entire home/apt,$177.00
+1368,Global Luxury,2017-12-19,Neighborhood highlights,Entire serviced apartment,Entire home/apt,$348.00
+1369,,,,Entire rental unit,Entire home/apt,$428.00
+1370,Blake,2016-05-25,Neighborhood highlights,Entire rental unit,Entire home/apt,$261.00
+1371,Taskin,2014-05-05,,Private room in home,Private room,$104.00
+1372,Taskin,2014-05-05,,Private room in home,Private room,$88.00
+1373,Compass,2014-09-02,Neighborhood highlights,Entire rental unit,Entire home/apt,$290.00
+1374,Compass,2014-09-02,Neighborhood highlights,Entire rental unit,Entire home/apt,$242.00
